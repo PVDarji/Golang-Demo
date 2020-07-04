@@ -1,0 +1,10 @@
+{
+    "dev":{
+        "PORT":":3001",
+        "imageurl":"http://127.0.0.1:3001/images/"
+    },
+    "production":{
+        "PORT":":3001",
+        "imageurl":"http://127.0.0.1:3001/images/"
+    }
+}
